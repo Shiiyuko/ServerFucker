@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerFucker">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerFucker</output-path>
+    <root id="archive" name="ServerFucker.jar">
+      <element id="module-output" name="FuckPanel" />
+    </root>
+  </artifact>
+</component>
